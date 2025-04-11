@@ -13,7 +13,3 @@ Este proyecto simula un sistema de cajero automático donde el usuario puede:
 
 El sistema implementa clases de **Cuenta Bancaria**, con soporte para **Cuenta de Ahorro** y manejo de excepciones como **Saldo Insuficiente**.
 
-## Estructura del Proyecto
-
-La estructura de carpetas del proyecto es la siguiente:
-
